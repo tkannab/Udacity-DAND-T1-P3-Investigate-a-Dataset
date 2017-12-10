@@ -41,3 +41,18 @@ Once you have finished analyzing the data, create a report that shares the findi
 Use the [Project Rubric](https://review.udacity.com/#!/rubrics/107/view) to review your project. If you are happy with your submission, then you're ready to submit your project. If you see room for improvement, keep working to improve your project!
 Supporting Materials
 [Investigate a Dataset - Template Notebook](https://d17h27t6h515a5.cloudfront.net/topher/2017/October/59dd0f5a_investigate-a-dataset-template/investigate-a-dataset-template.ipynb)
+
+## Summary Note
+**Data Analysis Process**:
+1. Question
+2. Wrangle (Acquiring and Cleaning the Data)
+   A. Data Acquisition
+      I. Downloading files
+      II. Accessing an API
+      III. Scraping a web page
+      IV. Combine data from different formats
+
+
+3. Explore
+4. Draw Conclusions
+5. Communicate
