@@ -65,16 +65,3 @@ Supporting Materials
 [Investigate a Dataset - Template Notebook](https://d17h27t6h515a5.cloudfront.net/topher/2017/October/59dd0f5a_investigate-a-dataset-template/investigate-a-dataset-template.ipynb)
 
 Project Walkthrough can be found [here](https://www.youtube.com/watch?time_continue=83&v=OtDZCYxbHB4)
-
-## Summary Note
-**Data Analysis Process**:
-1. Question
-2. Wrangle (Acquiring and Cleaning the Data)
-   A. Data Acquisition
-      I. Downloading files
-      II. Accessing an API
-      III. Scraping a web page
-      IV. Combine data from different formats
-3. Explore
-4. Draw Conclusions
-5. Communicate
